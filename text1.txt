@@ -1,0 +1,2 @@
+This is the new text file, after restoring the previous version of the readme file ,
+now I will make changes to the readme file and then push both together
